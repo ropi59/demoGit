@@ -1,4 +1,4 @@
-# Mon premier titre
+# Mon premier titre : Le nom de mon application
 ## Premier sous-titre
 ### sous sous-titre
 
